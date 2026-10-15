@@ -1,0 +1,2 @@
+# hybrid_LLM_JS_deobfuscator
+Гибридный LLM-деобфускатор JavaScript с детерминированной верификацией
